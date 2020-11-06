@@ -1,6 +1,4 @@
--- **********************************
--- Purpose      : Group Assignment - DBS301
--- **********************************
+*********************************
 
 /* Question 1. 
 Display the employee number, full employee name, job and hire date of all
@@ -8,7 +6,7 @@ Display the employee number, full employee name, job and hire date of all
  employees displayed first.
  
  exclude people hired in 2015 and 2016.  
- Full name should be in the form â€œLastname,  Firstnameâ€? 
+ Full name should be in the form ?œLastname,  Firstname?? 
  Hire date should be in the form of [May 31<st,nd,rd,th> of 2016]
 */
 
@@ -27,7 +25,7 @@ SELECT  employee_id,
 /* Question 2. 
 List the employee number, full name, job and the modified salary for all 
  employees whose monthly earning is outside the range 
- $6,000 â€“ $11,000 and who are employed as Vice Presidents or Managers.
+ $6,000 ??$11,000 and who are employed as Vice Presidents or Managers.
 */
 
 
